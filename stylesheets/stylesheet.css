@@ -193,6 +193,7 @@ form {
 h1 {
   font-size: 32px;
   color: #ff0099;
+  text-align: center;
 } 
 
 h2 {
@@ -200,6 +201,7 @@ h2 {
   font-weight: bold;
   color: #ff0099;
   margin-bottom: 8px;
+  text-align: center;
 } 
 
 h3 {
@@ -207,22 +209,26 @@ h3 {
   font-size: 18px;
   font-weight: bold;
   margin-bottom: 8px;
+  text-align: center;
 } 
  
 h4 {
   font-size: 16px;
   color: #ff0099;
   font-weight: bold;
+  text-align: center;
 } 
 
 h5 {
   font-size: 1em;
   color: #ff0099;
+  text-align: center;
 } 
 
 h6 {
   font-size: .8em;
   color: #ff0099;
+  text-align: center;
 } 
 
 p {
@@ -296,6 +302,7 @@ footer a:hover {
    font-size: 24px;
    font-family: Georgia, serif;
    text-decoration: none;
+   text-align: center;
    vertical-align: middle;
    }
 .button:hover {
