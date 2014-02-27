@@ -1,0 +1,1 @@
+var snd = new Audio("audio/nooo.ogg");
